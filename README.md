@@ -49,7 +49,6 @@ This repository contains the front-end code for a **Blog Application** built usi
 - **React Router**: Client-side routing
 - **Tailwind CSS**: Styling
 - **Appwrite**: Backend for blog management and user authentication
-- **Axios**: For making HTTP requests
 - **JavaScript (ES6+)**: Core language
 
 ## Key Features Breakdown
